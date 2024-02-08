@@ -20,9 +20,27 @@ My passion lies in creating sleek and efficient web applications, and my project
     <img width="33%" src="https://github-readme-stats.vercel.app/api?username=nivesh852&hide_title=true&hide_border=true&show_icons=true&text_color=fff&icon_color=1abc9c&bg_color=0,2d2d2d,000000&theme=dark&hide_rank=true&layout=compact&langs_count=8&hide=HTML" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=130 width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivesh852&hide_title=true&hide_border=true&show_icons=true&text_color=fff&icon_color=1abc9c&bg_color=0,2d2d2d,000000&theme=dark&hide_rank=true&layout=compact&langs_count=8&hide=HTML" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivesh852&hide_title=true&hide_border=true&show_icons=true&text_color=fff&icon_color=1abc9c&bg_color=0,2d2d2d,000000&theme=dark&hide_rank=true&layout=compact&langs_count=8&hide=HTML" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="33%" src="https://github-readme-streak-stats-two-fawn.vercel.app/?user=nivesh852&theme=highcontrast" />
   </a>
 </p>
+
+<h3>Tech Stack and Tools 💫<h3>
+
+| Category | Skills |
+| :------- | :----- |
+| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-java] ![][lang-python] |
+| ![][h-frontend] | ![][frontend-react] ![][frontend-vuejs] ![][frontend-nextjs] ![][frontend-redux] ![][frontend-html5] ![][frontend-css] ![][frontend-materialui] |
+| ![][h-backend] | ![][backend-nodejs] ![][backend-expressjs] |
+| ![][h-database] | ![][db-mongodb] ![][db-postgresql] ![][db-mysql] |
+| ![][h-cloud] | ![][cloud-gcp] ![][cloud-aws] ![][cloud-azure] |
+| ![][h-cicd] | ![][cicd-githubactions] ![][cicd-vercel] |
+| ![][h-package] | ![][pkg-npm] |
+| ![][h-tools] | ![][tools-figma] ![][tools-postman] ![][tools-git] |
+| ![][h-projectmgmt] | ![][projmgmt-jira] |
+| ![][h-browsers] | ![][browser-chrome] ![][browser-safari] ![][browser-firefox] |
+| ![][h-servers] | ![][server-apache] |
+| ![][h-other] | ![][other-windows] ![][other-linux] ![][other-macos] |
+
