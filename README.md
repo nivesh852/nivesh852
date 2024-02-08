@@ -118,7 +118,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 
 ## Join me in the journey! 🌟
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/niveshpatel12/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
