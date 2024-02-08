@@ -31,7 +31,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 
 | Category | Skills |
 | :------- | :----- |
-| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-java] ![][lang-python] |
+| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-python] |
 | ![][h-frontend] | ![][frontend-react] ![][frontend-vuejs] ![][frontend-nextjs] ![][frontend-redux] ![][frontend-html5] ![][frontend-css] ![][frontend-materialui] |
 | ![][h-backend] | ![][backend-nodejs] ![][backend-expressjs] |
 | ![][h-database] | ![][db-mongodb] ![][db-postgresql] ![][db-mysql] |
