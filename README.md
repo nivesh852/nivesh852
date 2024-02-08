@@ -116,4 +116,26 @@ My passion lies in creating sleek and efficient web applications, and my project
 [other-linux]: https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black "Linux"
 [other-macos]: https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white "macOS"
 
+## Join me in the journey! 🌟
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niveshpatel12/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+</p>
+
+## Hobbies & Interests
+
+- 🚀 Always on the quest for new tech frontiers
+- 🌌 Gazing up at the stars, lost in the wonders of the universe
+- 📰 Keeping up with the latest tech trends and software innovations
+- 📚 Diving into books, immersing myself in worlds of knowledge and imagination
+- 🌿 Finding solace in nature's embrace, where tranquility reigns supreme
+- 🎮 Ready to embark on gaming adventures, whether in digital realms or around the board
+
+---
+
+<p align="center">
+  Open to collaboration and looking forward to contributing to interesting projects!
+</p>
 
