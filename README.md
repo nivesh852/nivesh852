@@ -135,6 +135,6 @@ My passion lies in creating sleek and efficient web applications, and my project
 ---
 
 <p align="center">
-  Open to collaboration and looking forward to contributing to interesting projects!
+  Excited to collaborate and eager to bring innovative ideas to the table! 🚀
 </p>
 
