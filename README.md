@@ -10,7 +10,7 @@ I am a Master’s graduate in Computer Science from [Cleveland State University]
 
 My passion lies in creating sleek and efficient web applications, and my projects reflect my coding and creative prowess. I love exploring new tech stacks and building projects that solve real-world problems.
 
-- 📍 Located in Denver, CO
+- 📍 Located in Seattle, WA
 - 📫 Reach me at niveshpatel1@gmail.com
 - 💼 Open to job opportunities and collaborations
 
