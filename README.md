@@ -30,7 +30,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 
 | Category | Skills |
 | :------- | :----- |
-| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-python] |
+| ![][h-programming] | ![][lang-javascript] ![][lang-typescript] ![][lang-python] ![][lang-Go] |
 | ![][h-frontend] | ![][frontend-react] ![][frontend-vuejs] ![][frontend-nextjs] ![][frontend-redux] ![][frontend-html5] ![][frontend-css] ![][frontend-materialui] |
 | ![][h-backend] | ![][backend-nodejs] ![][backend-expressjs] |
 | ![][h-database] | ![][db-mongodb] ![][db-postgresql] ![][db-mysql] |
@@ -63,6 +63,7 @@ My passion lies in creating sleek and efficient web applications, and my project
 [lang-javascript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "JavaScript"
 [lang-typescript]: https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white "TypeScript"
 [lang-python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white "Python"
+[lang-Go]: https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=Go&logoColor=white "GO"
 
 <!-- Frontend Technologies -->
 [frontend-react]: https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white "React"
